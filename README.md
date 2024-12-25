@@ -8,12 +8,14 @@ This is a modern and interactive "Contact Us" webpage built with React and Vite.
 - 🎨 **Modern UI**: Clean and professional design with engaging visuals.
 
 ---
+Live Demo
+Check out the live demo here:
+React Contact Us
 
 ### Technologies Used:
 <div>
   <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React Badge"/>
   <img src="https://img.shields.io/badge/Vite-purple?style=for-the-badge&logo=vite&logoColor=white" alt="Vite Badge"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-blue?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS Badge"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript Badge"/>
 </div>
 

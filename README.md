@@ -8,9 +8,6 @@ This is a modern and interactive "Contact Us" webpage built with React and Vite.
 - 🎨 **Modern UI**: Clean and professional design with engaging visuals.
 
 ---
-Live Demo
-Check out the live demo here:
-React Contact Us
 
 ### Technologies Used:
 <div>
